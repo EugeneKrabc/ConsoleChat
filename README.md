@@ -9,7 +9,7 @@
 При запуске создадутся нужные таблицы для сохранения пользователей, чатов, сообщений.
 
 Установка: Находясь в нужной директории(SocketClient или SocketServer) прописать mvn package.
-Запуск клиентского приложения:  java -jar SocketClient/target/socket-client-1.0.jar --server=ip=IP --server-port=8081
+Запуск клиентского приложения:  java -jar SocketClient/target/socket-client-1.0.jar --server=ip=IP --server-port=8081<br>
 Запуск серверного приложения: java -jar SocketClient/target/socket-client-1.0.jar --port=8081
 
 Небольшой пример работы приложения:
