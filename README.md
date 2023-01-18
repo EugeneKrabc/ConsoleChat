@@ -15,5 +15,5 @@
 Небольшой пример работы приложения:
 <br /> <br />
 <p align="center">
-    <img src="misc/ChatExample.png" alt="Example" width="600" >
+    <img src="misc/ChatExample.png" alt="Example" width="1000" >
 </p>
